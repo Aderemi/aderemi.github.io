@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152e95e8-c082-4e5a-95e5-8f474b9d960f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/ionicons790f.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/ionicons790f.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/ionicons790f.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/mobirise.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/mobirise.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/mobirise.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/about_photo_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/about_photo_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/brand/brand_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/dot-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/home_wrapper_cover_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/testimonials/test_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/testimonials/test_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/testimonials/test_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_02_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_02_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_02_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_06_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_06_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_details_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_details_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_details_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/work_details_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Akins.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/all-works.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/ionicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/mobiriseicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/owl.video.play.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/css/splitting.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/ionicons790f.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/fonts/mobirise.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/angelist.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/github.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/linkedIn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/stackoverflow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/img/zigzag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/js/ajax-mail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/js/vendor/jquery-1.12.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/work-details-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/work-details-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/work-details-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/work-details-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/work-details-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staging/work-details-6.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/about_photo_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/about_photo_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/ajax-mail.js.download" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/brand_07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/ionicons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/jquery-1.12.4.min.js.download" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/main.js.download" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/mobiriseicons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/plugins.js.download" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/splitting.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/test_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/test_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/test_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/work_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/work_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/work_03.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/work_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/work_05.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/work_06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zuman - Creative Personal Portfolio_files/zigzag.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,20 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/demo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="159" column="12" lean-forward="true" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/staging/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="170">
               <caret line="10" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -138,18 +29,38 @@
       <file leaf-file-name="all-works.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/staging/all-works.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="170">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work-details-1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="work-details-1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/staging/work-details-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="30" column="103" lean-forward="false" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
+            <state relative-caret-position="833">
+              <caret line="49" column="46" lean-forward="false" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2380">
+              <caret line="140" column="1" lean-forward="false" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -158,18 +69,31 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/staging/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="4658">
               <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+            <state relative-caret-position="69">
+              <caret line="358" column="44" lean-forward="false" selection-start-line="358" selection-start-column="44" selection-end-line="358" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#28124#28130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/staging/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2359">
+              <caret line="210" column="10" lean-forward="false" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -180,10 +104,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>git</find>
-      <find>home_wrapper_cover_4</find>
       <find>software</find>
       <find>logo</find>
       <find>ment</find>
+      <find>side</find>
+      <find>home_wrapper_cover_4</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,11 +123,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/demo.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/staging/css/main.css" />
         <option value="$PROJECT_DIR$/staging/index.html" />
         <option value="$PROJECT_DIR$/staging/all-works.html" />
         <option value="$PROJECT_DIR$/staging/work-details-1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -232,13 +157,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="aderemi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="aderemi.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aderemi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aderemi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aderemi.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -256,13 +189,16 @@
               <item name="staging" type="462c0819:PsiDirectoryNode" />
               <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="aderemi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aderemi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="staging" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,16 +322,16 @@
       <option name="presentableId" value="Default" />
       <updated>1578898239566</updated>
       <workItem from="1578898248039" duration="7286000" />
-      <workItem from="1578953452690" duration="9610000" />
+      <workItem from="1578953452690" duration="10369000" />
+      <workItem from="1579495470161" duration="1269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16896000" />
+    <option name="totallyTimeSpent" value="18924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -404,19 +340,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32362458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12556732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -436,14 +372,76 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/demo.css">
+    <entry file="file://$PROJECT_DIR$/staging/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staging/all-works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/staging/work-details-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="46" lean-forward="false" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="1" lean-forward="false" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staging/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#28124#28130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staging/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="210" column="10" lean-forward="true" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/demo.css" />
     <entry file="file://$PROJECT_DIR$/img/angelist.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -481,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,25 +487,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="159" column="12" lean-forward="true" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/demo.css" />
     <entry file="file://$PROJECT_DIR$/staging/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="4658">
           <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
           <folding />
         </state>
@@ -516,7 +498,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/staging/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -526,17 +508,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/staging/all-works.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="1" lean-forward="false" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staging/work-details-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="30" column="103" lean-forward="false" selection-start-line="30" selection-start-column="103" selection-end-line="30" selection-end-column="103" />
+        <state relative-caret-position="833">
+          <caret line="49" column="46" lean-forward="false" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staging/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2359">
+          <caret line="210" column="10" lean-forward="false" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="358" column="44" lean-forward="false" selection-start-line="358" selection-start-column="44" selection-end-line="358" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#28124#28130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
