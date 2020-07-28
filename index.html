@@ -25,13 +25,24 @@
     <link href="css/main.css" rel="stylesheet" type="text/css">
     <link href="css/responsive.css" rel="stylesheet" type="text/css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FFYR4ZJMLG"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=221068666"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-FFYR4ZJMLG');
+        gtag('config', '221068666'{
+  		'page_title' : 'homepage',
+  		'page_path': '/home'
+	});
+	    
+	function registerEvent(label, value, category='Click', action='Click Action'){
+		gtag('event', action, {
+  			'event_category': category,
+  			'event_label': label,
+  			'value': value
+		});
+	}
     </script>
 </head>
 
@@ -60,22 +71,22 @@
                     <div class="col-md-9 col-4">
                         <ul id="menu_items" class="menu_items">
                             <li class="nav-item">
-                                <a href="#top" class="active menu_item nav-link slide-horizontal" data-splitting>Home</a>
+                                <a href="#top" onclick="registerEvent('Navigation Bar', 'Home')" class="active menu_item nav-link slide-horizontal" data-splitting>Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#about" class="menu_item nav-link slide-horizontal" data-splitting>About</a>
+                                <a href="#about" onclick="registerEvent('Navigation Bar', 'About')" class="menu_item nav-link slide-horizontal" data-splitting>About</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#service" class="menu_item nav-link slide-horizontal" data-splitting>Service</a>
+                                <a href="#service" onclick="registerEvent('Navigation Bar', 'Service')" class="menu_item nav-link slide-horizontal" data-splitting>Service</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#works" class="menu_item nav-link slide-horizontal" data-splitting>Works</a>
+                                <a href="#works" onclick="registerEvent('Navigation Bar', 'Work')" class="menu_item nav-link slide-horizontal" data-splitting>Works</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#testimonial" class="menu_item nav-link slide-horizontal" data-splitting>Testimonial</a>
+                                <a href="#testimonial" onclick="registerEvent('Navigation Bar', 'Testimonial')" class="menu_item nav-link slide-horizontal" data-splitting>Testimonial</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#contact" class="menu_item nav-link slide-horizontal" data-splitting>Contact</a>
+                                <a href="#contact" onclick="registerEvent('Navigation Bar', 'Contact')" class="menu_item nav-link slide-horizontal" data-splitting>Contact</a>
                             </li>
                         </ul>
                         <!-- responsive menu btn -->
