@@ -31,7 +31,7 @@
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', '221068666'{
+        gtag('config', '221068666', {
   		'page_title' : 'homepage',
   		'page_path': '/home'
 	});
@@ -58,7 +58,7 @@
     <!--  end page loader  -->
 
     <!-- start landing wrapper  -->
-    <div class="landing_wrapper bg-img" data-src="img/side1.jpg">
+    <div class="landing_wrapper bg-img" id="body_wrapper" data-src="img/side1.jpg">
         <!-- start header  -->
         <header>
             <div class="container">
@@ -487,8 +487,17 @@
 
     <!-- ========  All JS Here ========  -->
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/ajax-mail.js"></script>
+    <script src="js/ajax-mail.js"></script>Navigation Bar
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
+    <script>
+	    document.getElementById('body-wrapper').addEventListener('scroll', function(event)
+	    {
+    		var element = event.target;
+    		if (element.scrollHeight - element.scrollTop === element.clientHeight)
+    			{
+        			registerEvent('User scrolls to the bottom', 'To bottom', 'User Scrolls', 'Scroll Actions')
+    			}
+	     });
 </body>
 </html>
